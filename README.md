@@ -1,5 +1,7 @@
 # Frontend Mentor - Stats preview card component
 
+[>> CHECK OUT THE WEBSITE](https://katarzyna-wolowska-01.netlify.app/)
+
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
